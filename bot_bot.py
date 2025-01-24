@@ -22,4 +22,4 @@ async def joined(ctx, member: discord.Member):
     await ctx.send(f'{member.name} joined {discord.utils.format_dt(member.joined_at)}')
 
 
-bot.run("MTMyOTk0MjgzODcyNDc4ODMyNw.GgaEBk.BDci8r_63KQeyb7E-9Q5JvMRcoo7BKxPc-fIc8")
+bot.run("+parry")
